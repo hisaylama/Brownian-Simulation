@@ -1,5 +1,5 @@
 %Active Brownian motion: homogeneous envirnonment
-%Langevin simulation for the active brownian particle
+%Langevin simulation for the active Brownian particle
 close, clear, clc
 kB = 1.38e-23;%Boltzman constant J/K
 T  = 300;%tempertaure K
